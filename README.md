@@ -6,7 +6,7 @@ For the coding part in any Data Science Interviews, there are mainly four compon
 https://towardsdatascience.com/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0
 
 ## Installing
-We need to two packages: numpy and matplotlib.pyplot. 
+We need to install two packages: numpy and matplotlib.pyplot. 
 
 ## About the Author
 
