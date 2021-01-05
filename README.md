@@ -1,12 +1,12 @@
 # Python_LeetCode_Coding
 
-This repository hosts Python code for common technical questions asked in Data Science Interviews.
+For the coding part in any Data Science Interviews, there are mainly four components: Data Structure & Algorithm, Machine Learning Algorithms, Math and Statistics, and Data Manipulation. In this repository, I will host real interview questions asked by major tech companies and their Python solutions. On each topic, I will write a technical post on my Medium blog (https://medium.com/@leihua_ye). 
 
-For the final write-up, please refer to my technical blog: https://medium.com/@leihua_ye
+## Part 1: Math and Statistics: 
+https://towardsdatascience.com/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0
 
 ## Installing
 We need to two packages: numpy and matplotlib.pyplot. 
-
 
 ## About the Author
 
