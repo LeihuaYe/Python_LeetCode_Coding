@@ -5,6 +5,9 @@ For the coding part in any Data Science Interviews, there are mainly four compon
 ## Part 1: Math and Statistics: 
 https://towardsdatascience.com/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0
 
+## Part 2: Data Manipulation:
+https://medium.com/@leihua_ye
+
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
 
