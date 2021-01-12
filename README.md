@@ -12,7 +12,7 @@ https://towardsdatascience.com/6-python-questions-you-should-practice-before-cod
 https://towardsdatascience.com/binary-search-in-python-the-programming-algorithm-8b8fa039eaa
 
 ## Part 4: Data Manipulation, part 2:
-https://medium.com/@leihua_ye
+https://towardsdatascience.com/essential-python-coding-questions-for-data-science-interviews-4d33d15008e6
 
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
