@@ -17,6 +17,9 @@ https://towardsdatascience.com/essential-python-coding-questions-for-data-scienc
 ## Part 5: 3 Simple Questions to Hone Python Skills for Beginners in 2021
 https://leihua-ye.medium.com
 
+## Part 6: Python Numpy and Matrices Questions for Data Scientists
+https://towardsdatascience.com/python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4
+
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
 
