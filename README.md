@@ -15,7 +15,7 @@ https://towardsdatascience.com/binary-search-in-python-the-programming-algorithm
 https://towardsdatascience.com/essential-python-coding-questions-for-data-science-interviews-4d33d15008e6
 
 ## Part 5: 3 Simple Questions to Hone Python Skills for Beginners in 2021
-https://leihua-ye.medium.com
+https://towardsdatascience.com/3-simple-questions-to-hone-python-skills-for-beginners-in-2021-f12da38f83cf
 
 ## Part 6: Python Numpy and Matrices Questions for Data Scientists
 https://towardsdatascience.com/python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4
