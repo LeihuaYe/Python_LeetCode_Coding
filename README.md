@@ -1,6 +1,6 @@
 # Python_LeetCode_Coding
 
-For the coding part in any Data Science Interviews, there are mainly four components: Data Structure & Algorithm, Machine Learning Algorithms, Math and Statistics, and Data Manipulation. In this repository, I will host real interview questions asked by major tech companies and their Python solutions. On each topic, I will write a technical post on my Medium blog (https://medium.com/@leihua_ye). 
+For the coding part in any Data Science Interviews, there are mainly four components: Data Structure & Algorithm, Machine Learning Algorithms, Math and Statistics, and Data Manipulation. In this repository, I will host real interview questions asked by major tech companies and their Python solutions. On each topic, I will write a technical post on my Medium blog (https://leihua-ye.medium.com). 
 
 ## Part 1: Math and Statistics: 
 https://towardsdatascience.com/5-python-coding-questions-asked-at-faang-59e6cf5ba2a0
@@ -35,4 +35,4 @@ Email: yeleihua@gmail.com
 
 LinkedIn: www.linkedin.com/in/leihuaye
 
-Tech Blog: https://medium.com/@leihua_ye
+Tech Blog: https://leihua-ye.medium.com
