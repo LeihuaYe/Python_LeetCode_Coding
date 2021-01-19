@@ -25,7 +25,7 @@ https://towardsdatascience.com/3-simple-questions-to-hone-python-skills-for-begi
 https://towardsdatascience.com/python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4
 
 ## Part 7: Master Python Dictionary for Beginners
-https://leihua-ye.medium.com
+https://towardsdatascience.com/master-python-dictionary-for-beginners-in-2021-1cdbaa17ec45
 
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
