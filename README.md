@@ -27,6 +27,9 @@ https://towardsdatascience.com/python-numpy-and-matrices-questions-for-data-scie
 ## Part 7: Master Python Dictionary for Beginners
 https://towardsdatascience.com/master-python-dictionary-for-beginners-in-2021-1cdbaa17ec45
 
+## Part 8: Python Array and String Manipulation Questions for Data Scientists
+https://leihua-ye.medium.com
+
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
 
