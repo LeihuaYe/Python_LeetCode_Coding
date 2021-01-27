@@ -30,6 +30,9 @@ https://towardsdatascience.com/master-python-dictionary-for-beginners-in-2021-1c
 ## Part 8: Python Array and String Manipulation Questions for Data Scientists
 https://towardsdatascience.com/python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4
 
+## PeR 9: How to Solve Python Coding Questions using Math
+https://leihua-ye.medium.com
+
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
 
