@@ -31,7 +31,7 @@ https://towardsdatascience.com/master-python-dictionary-for-beginners-in-2021-1c
 https://towardsdatascience.com/python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4
 
 ## Part 9: How to Solve Python Coding Questions using Math
-https://leihua-ye.medium.com
+https://towardsdatascience.com/how-to-solve-python-coding-questions-using-math-72d5540b5a24
 
 ## Part 10: How to Solve Python Coding Questions using Stack
 https://towardsdatascience.com/how-to-solve-python-coding-questions-using-stack-94571f31af3f
