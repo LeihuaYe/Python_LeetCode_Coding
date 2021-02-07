@@ -34,7 +34,7 @@ https://towardsdatascience.com/python-string-manipulation-for-data-scientists-in
 https://leihua-ye.medium.com
 
 ## Part 10: How to Solve Python Coding Questions using Stack
-https://leihua-ye.medium.com
+https://towardsdatascience.com/how-to-solve-python-coding-questions-using-stack-94571f31af3f
 
 ## Installing
 We need to install two packages: numpy and matplotlib.pyplot. 
