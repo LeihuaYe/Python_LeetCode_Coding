@@ -30,7 +30,10 @@ https://towardsdatascience.com/master-python-dictionary-for-beginners-in-2021-1c
 ## Part 8: Python Array and String Manipulation Questions for Data Scientists
 https://towardsdatascience.com/python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4
 
-## PeR 9: How to Solve Python Coding Questions using Math
+## Part 9: How to Solve Python Coding Questions using Math
+https://leihua-ye.medium.com
+
+## Part 10: How to Solve Python Coding Questions using Stack
 https://leihua-ye.medium.com
 
 ## Installing
