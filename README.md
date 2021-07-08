@@ -24,8 +24,11 @@ https://towardsdatascience.com/3-simple-questions-to-hone-python-skills-for-begi
 ## Part 6: Python Numpy and Matrices Questions for Data Scientists
 https://towardsdatascience.com/python-numpy-and-matrices-questions-for-data-scientists-167af1c9d3a4
 
-## Part 7: Master Python Dictionary for Beginners
+## Part 7.1: Master Python Dictionary for Beginners, Part One
 https://towardsdatascience.com/master-python-dictionary-for-beginners-in-2021-1cdbaa17ec45
+
+## Part 7.2: Master Python Dictionary for Advanced Users, Part Two
+https://towardsdatascience.com/master-data-type-dictionary-in-python-from-zero-to-hero-part-2-6513aad883de?sk=23264e4e8bb82db4229918f28a34a0c8
 
 ## Part 8: Python Array and String Manipulation Questions for Data Scientists
 https://towardsdatascience.com/python-string-manipulation-for-data-scientists-in-2021-c5b9526347f4
