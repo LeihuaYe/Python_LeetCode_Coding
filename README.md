@@ -40,7 +40,7 @@ https://towardsdatascience.com/how-to-solve-python-coding-questions-using-math-7
 https://towardsdatascience.com/how-to-solve-python-coding-questions-using-stack-94571f31af3f
 
 ## Part 11: Why Data Scientists Should Learn Dynamic Programming
-http://leihua-ye.medium.com
+https://towardsdatascience.com/why-data-scientists-should-learn-dynamic-programming-e50dfe62a5c7?sk=2f50d13ab53a4984153e4ccda8870bb1
 
 
 ## Installing
